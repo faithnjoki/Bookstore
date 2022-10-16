@@ -1,24 +1,43 @@
-# README
+# Book Store
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Description
 
-Things you may want to cover:
+This My bookstore app that i used to store the boks I have read. I have added the future of rating on each book so that that use my app can know the nice boooks to read.
 
-* Ruby version
+### Author
 
-* System dependencies
+**Faith Njoki Muthoni** - [Github link](https://github.com/faithnjoki/Bookstore)
 
-* Configuration
+### Prerequisites
 
-* Database creation
+```
+Code editor
+Git version control
+GitHub account
 
-* Database initialization
+```
 
-* How to run the test suite
+## BDD
 
-* Services (job queues, cache servers, search engines, etc.)
+    As a user, I would like to:
 
-* Deployment instructions
+- Add a new book
+- View a book that i have added
+- Edit a book that i had added
+- Save my books after adding or editing
+- Delete a book from my store
 
-* ...
+## Technologies used
+
+- Ruby on Rails
+- Ruby
+- HTML
+- Bootstrap
+
+## Live link
+
+## Support and contact details
+
+For any remarks, questions or recommendations, feel free to contact me using the details below:
+
+Email: faithnjoki81@gmail.com
