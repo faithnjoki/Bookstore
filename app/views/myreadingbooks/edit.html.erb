@@ -1,0 +1,10 @@
+<h1>Add a book</h1>
+
+<%= render "form", myreadingbook: @myreadingbook %>
+
+<br>
+
+<div>
+  <%= link_to "View", @myreadingbook %> |
+  <%= link_to "Back", myreadingbooks_path %>
+</div>

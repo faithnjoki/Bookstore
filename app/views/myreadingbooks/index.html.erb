@@ -1,0 +1,14 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>My books</h1>
+
+<div id="myreadingbooks">
+  <% @myreadingbooks.each do |myreadingbook| %>
+    <%= render myreadingbook %>
+    <p>
+      <%= link_to "View ", myreadingbook %>
+    </p>
+  <% end %>
+</div>
+
+
